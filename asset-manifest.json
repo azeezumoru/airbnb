@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/airbnb/static/css/main.73f8333d.css",
+    "main.js": "/airbnb/static/js/main.8681aa3e.js",
+    "static/media/Group.png": "/airbnb/static/media/Group.072626b8e8ff69932f03.png",
+    "static/media/image12.png": "/airbnb/static/media/image12.5d736ac3dc01f817ff4d.png",
+    "static/media/wedding-photo.png": "/airbnb/static/media/wedding-photo.9978c5b012896f7188c1.png",
+    "static/media/mountain-bike.png": "/airbnb/static/media/mountain-bike.057326c626e54dd53ad0.png",
+    "index.html": "/airbnb/index.html",
+    "main.73f8333d.css.map": "/airbnb/static/css/main.73f8333d.css.map",
+    "main.8681aa3e.js.map": "/airbnb/static/js/main.8681aa3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f8333d.css",
+    "static/js/main.8681aa3e.js"
+  ]
+}
