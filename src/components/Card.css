@@ -1,0 +1,52 @@
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 275px;
+  position: relative;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1 1 calc(23.333% - 20px);
+  box-sizing: border-box;
+}
+
+.sold {
+  position: absolute;
+  top: 24px;
+  left: 21px;
+  background-color: white;
+  padding: 5px 7px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+
+.card-image {
+  width: 200px;
+}
+
+.card-content {
+  padding: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-rating {
+  display: flex;
+  align-items: center;
+  text-overflow: ellipsis;
+}
+
+.star-icon {
+  color: gold;
+  margin-right: 5px;
+}
